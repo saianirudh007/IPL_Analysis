@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run Bda_Ipl.py
+web: sh setup.sh && streamlit run app.py
